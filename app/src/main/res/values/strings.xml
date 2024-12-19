@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mobila</string>
+    <string name="get_content">Get content</string>
+    <string name="weight">Weight</string>
+    <string name="sterge">Sterge</string>
+    <string name="weight_value">Weight value</string>
+    <string name="imported">Imported</string>
+    <string name="inserted">Inserted</string>
+    <string name="invalid_weight_value">Invalid weight value!</string>
+    <string name="deleted">Deleted</string>
+    <string name="loaded">Loaded</string>
+    <string-array name="spinner_values">
+        <item>are valoarea mai mare decat</item>
+        <item>are valoarea mai mica decat</item>
+        <item>are valoarea egala cu</item>
+    </string-array>
+</resources>
